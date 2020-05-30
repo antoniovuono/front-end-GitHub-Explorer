@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 A proposta para esse projeto propsoto pelo curso **Bootcamp GoStack** da [Rocketseat](https://rocketseat.com.br/), é desenvolver uma aplicação web com ReactJS, com requisões a API pública do Github para a consulta de repositórios.
 
-## :Template da aplicação
+## Template da aplicação
 
 <h3>Dashboard:</h3>
 
@@ -14,7 +14,7 @@ A proposta para esse projeto propsoto pelo curso **Bootcamp GoStack** da [Rocket
 
 <h3>Repository:</h3>
 
-![Uploading Template2.png…]()
+![Template2](https://user-images.githubusercontent.com/7297243/83333612-c057aa00-a277-11ea-9b85-06f1c01e47f0.png)
 
 
 ## :Download do projeto:
