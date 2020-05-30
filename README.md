@@ -1,23 +1,23 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## :Github Explorer
+## Github Explorer
 
-## :rocket: Sobre o Projeto
+## rocket: Sobre o Projeto
 
 A proposta para esse projeto propsoto pelo curso **Bootcamp GoStack** da [Rocketseat](https://rocketseat.com.br/), é desenvolver uma aplicação web com ReactJS, com requisões a API pública do Github para a consulta de repositórios.
 
 ## Template da aplicação
 
-<h3>Dashboard:</h3>
+## <h3>Dashboard:</h3>
 
 ![Template1](https://user-images.githubusercontent.com/7297243/83333519-3ad3fa00-a277-11ea-9ec1-c16dc3462621.png)
 
-<h3>Repository:</h3>
+## <h3>Repository:</h3>
 
 ![Template2](https://user-images.githubusercontent.com/7297243/83333612-c057aa00-a277-11ea-9b85-06f1c01e47f0.png)
 
 
-## :Download do projeto:
+## Download do projeto:
 
 **Utilizando yarn**
 
